@@ -1,0 +1,29 @@
+p{
+    float: left;
+    margin-right: 30px;
+}
+body{
+    margin-left: 35%;
+    width: 300px;
+    height: 500px;
+    background-color:whitesmoke;
+}
+
+#mostrar{
+    margin-top: 50px;
+}
+#conter{
+    padding-top: 10px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.espaco{
+    width: 80px;
+    height: 80px;
+    border: 2px solid #000;
+    text-align: center;
+    display: flex;
+    float: left;
+}
